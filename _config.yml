@@ -1,6 +1,6 @@
 name: drerik
 favicon: null
-layout_spectrum: 0.11673742812126875
+layout_spectrum: 0.73357
 typography_spectrum: 0.14764185808598995
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#abdcfd'
+    - '#6d98e6'
+    - '#466993'
+    - '#232227'
   brandStrength: 0.625
   lightness: 0.16323660826310515
   saturation: 0.7609192738309503
